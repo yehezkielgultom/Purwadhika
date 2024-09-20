@@ -1,4 +1,4 @@
-# Data barang awal
+### Data barang awal ###
 # barang_dijual: List berisi dictionary untuk setiap barang yang dijual, menyimpan atribut 'No' (nomor barang), 'Nama', 'Stok', 'Harga Beli', dan 'Harga Jual'. 
 # Harga jual dihitung sebagai harga beli dikalikan 1.2 (keuntungan 20%).
 barang_dijual = [
